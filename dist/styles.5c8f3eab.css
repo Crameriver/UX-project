@@ -1,0 +1,126 @@
+.accueil {
+  width: 100vw;
+  z-index: -5; }
+
+.op {
+  position: absolute; }
+
+.article {
+  top: 2.4vh;
+  left: 68vw;
+  height: 5.9vh;
+  width: 9vw;
+  cursor: pointer; }
+
+.histoire {
+  top: 2.4vh;
+  left: 79.5vw;
+  height: 5.9vh;
+  width: 9vw;
+  cursor: pointer; }
+
+.plus1 {
+  top: 2.4vh;
+  left: 91vw;
+  height: 5.9vh;
+  width: 9vw;
+  cursor: pointer; }
+
+.parrainez1 {
+  top: 194vh;
+  left: 19vw;
+  height: 10.8vh;
+  width: 16vw;
+  cursor: pointer; }
+
+.parrainez2 {
+  top: 287vh;
+  left: 40vw;
+  height: 11vh;
+  width: 16vw;
+  cursor: pointer; }
+
+.echangez1 {
+  top: 366vh;
+  left: 55vw;
+  height: 10.8vh;
+  width: 16vw;
+  cursor: pointer; }
+
+.echangez2 {
+  top: 460vh;
+  left: 28vw;
+  height: 10.8vh;
+  width: 16vw;
+  cursor: pointer; }
+
+.acheter1 {
+  top: 706vh;
+  left: 42vw;
+  height: 10.8vh;
+  width: 16vw;
+  cursor: pointer; }
+
+.acheter2 {
+  top: 715vh;
+  left: 11vw;
+  height: 10.8vh;
+  width: 16vw;
+  cursor: pointer; }
+
+.acheter3 {
+  top: 715vh;
+  left: 73vw;
+  height: 10.8vh;
+  width: 16vw;
+  cursor: pointer; }
+
+.acheter4 {
+  top: 825vh;
+  left: 42vw;
+  height: 10.8vh;
+  width: 16vw;
+  cursor: pointer; }
+
+.acheter5 {
+  top: 835vh;
+  left: 11vw;
+  height: 10.8vh;
+  width: 16vw;
+  cursor: pointer; }
+
+.acheter6 {
+  top: 835vh;
+  left: 73vw;
+  height: 10.8vh;
+  width: 16vw;
+  cursor: pointer; }
+
+.service {
+  top: 851vh;
+  left: 23vw;
+  height: 9.9vh;
+  width: 9vw;
+  cursor: pointer; }
+
+.hautpage {
+  top: 851vh;
+  left: 5vw;
+  height: 9.9vh;
+  width: 16vw;
+  cursor: pointer;
+  z-index: 100; }
+
+.garantie {
+  top: 851vh;
+  left: 35vw;
+  height: 9.9vh;
+  width: 9vw;
+  cursor: pointer; }
+
+.plus2 {
+  top: 851vh;
+  left: 46vw;
+  height: 9.9vh;
+  width: 9vw;
+  cursor: pointer; }
